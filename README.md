@@ -9,11 +9,11 @@
 1. [발표 자료 (pdf ver.)](https://github.com/kangtegong/pycon-session-release/blob/master/pycon-kr-release-kmc.pdf)
 2. [발표 대본]()
 3. benchmark
-    - [src/]()
+    - [src/ : 테스트에 사용된 tools](https://github.com/kangtegong/pycon-session-release/tree/master/benchmark/src)
         - pipenv / Pipfile, Pipfile.lock
         - poetry / poetry.lock, pyproject.toml
-    - [README.md]()
-    - [result/]()
+    - [README.md : Test 결과 요약](https://github.com/kangtegong/pycon-session-release/blob/master/benchmark/README.md)
+    - [result/ : 각각의 테스트 출력 모음](https://github.com/kangtegong/pycon-session-release/tree/master/benchmark/result)
         - MacOS.md
         - Windows.md
         - Linux.md
