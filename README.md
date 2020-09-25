@@ -7,7 +7,7 @@
 ## 목차
 
 1. [발표 자료 (pdf ver.)](https://github.com/kangtegong/pycon-session-release/blob/master/pycon-kr-release-kmc.pdf)
-2. [발표 대본]()
+2. [발표 대본](https://github.com/kangtegong/pycon-session-release/blob/master/script.md)
 3. benchmark
     - [src/ : 테스트에 사용된 tools](https://github.com/kangtegong/pycon-session-release/tree/master/benchmark/src)
         - pipenv / Pipfile, Pipfile.lock
@@ -20,7 +20,7 @@
 
 ## 성능 테스트
 
-[poetry vs pipenv 상황별 성능 테스트]()
+[poetry vs pipenv 상황별 성능 테스트](https://github.com/kangtegong/pycon-session-release/blob/master/benchmark/README.md)
 
 ---
 
