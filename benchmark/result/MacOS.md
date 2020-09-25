@@ -107,9 +107,9 @@ user	0m16.101s
 sys	0m2.549s
 seulaui-MacBook-Pro:pipenv seulapark$
 ```
-> real	0m14.678s  
-user	0m1.872s  
-sys	0m0.461s
+> real	0m26.962s  
+user	0m16.101s  
+sys	0m2.549s
 
 ## poetry add package
 
